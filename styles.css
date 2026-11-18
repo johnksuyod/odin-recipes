@@ -1,0 +1,50 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(61, 61, 61);
+    margin: 0;;
+}
+
+h2, h3, p, li {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    padding: 5px;
+}
+
+header {
+    background-color: rgb(226, 177, 17);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(148, 118, 21);
+    text-align: center;
+}
+
+.navigation{
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: block;
+    border-top: 2px solid white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
